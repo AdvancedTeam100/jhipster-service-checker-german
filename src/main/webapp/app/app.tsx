@@ -1,6 +1,6 @@
 import 'react-toastify/dist/ReactToastify.css';
 import './app.scss';
-import 'app/config/dayjs.ts';
+import 'app/config/dayjs';
 
 import React, { useEffect } from 'react';
 import { Card } from 'reactstrap';

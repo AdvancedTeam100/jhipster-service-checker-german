@@ -28,7 +28,7 @@ export const Home = () => {
           <Translate contentKey="home.title">Welcome, Java Hipster!</Translate>
         </h2>
         <p className="lead">
-          <Translate contentKey="home.subtitle">This is your homepage</Translate>
+          <Translate contentKey="home.subtitle">This is Service Checker</Translate>
         </p>
         {account?.login ? (
           <div>
